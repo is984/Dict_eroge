@@ -1,0 +1,52 @@
+!!ATOK_TANGO_TEXT_HEADER_1
+!!一覧出力
+!!対象辞書;F:\Win\Desk\エロゲ辞書\HOOK.dic
+!!単語種類;登録単語(*) 自動登録単語($)
+!!読み範囲;(読みの先頭) → (読みの最終)
+!!出力日時;20/05/29 01:36
+
+ふっくそふと	HOOKSOFT	名詞*	ブランド[http://www.hook-net.jp]	しない	http://www.hook-net.jp
+ふっく	HOOKSOFT	名詞*	ブランド[http://www.hook-net.jp]	しない	http://www.hook-net.jp
+ＨＯＯＫ	HOOKSOFT	名詞*	ブランド[http://www.hook-net.jp]	しない	http://www.hook-net.jp
+ＨＯＯＫＳＯＦＴ	HOOKSOFT	名詞*	ブランド[http://www.hook-net.jp]	しない	http://www.hook-net.jp
+あめあがりのねこたちへ	雨あがりの猫たちへ	名詞*	HOOK(2001年6月期発売)	しない	http://www.hook-net.jp/ameneko/ameneko_game.htm
+あめねこ	雨あがりの猫たちへ	名詞*	HOOK(2001年6月期発売)	しない	http://www.hook-net.jp/ameneko/ameneko_game.htm
+あまつむぐのりと	天紡ぐ祝詞	名詞*	HOOK(2002年6月期発売)	しない	http://www.hook-net.jp/norito/norito_main.htm
+のりと	天紡ぐ祝詞	名詞*	HOOK(2002年6月期発売)	しない	http://www.hook-net.jp/norito/norito_main.htm
+おれんじぽけっと	OrangePocket -オレンジポケット-	名詞*	HOOK(2003年6月期発売)	しない	http://www.hook-net.jp/orange_pocket/
+おれんじぽけっと	OrangePocket 	名詞*	HOOK(2003年6月期発売)	しない	http://www.hook-net.jp/orange_pocket/
+おれぽけ	OrangePocket -オレンジポケット-	名詞*	HOOK(2003年6月期発売)	しない	http://www.hook-net.jp/orange_pocket/
+おれぽけ	OrangePocket	名詞*	HOOK(2003年6月期発売)	しない	http://www.hook-net.jp/orange_pocket/
+らくらいふ	LikeLife -ライクライフ-	名詞*	HOOK(2004年5月期発売)	しない	http://www.hook-net.jp/likelife/
+らいくらいふ	LikeLife	名詞*	HOOK(2004年5月期発売)	しない	http://www.hook-net.jp/likelife/
+らいらい	LikeLife -ライクライフ-	名詞*	HOOK(2004年5月期発売)	しない	http://www.hook-net.jp/likelife/
+らいらい	LikeLife	名詞*	HOOK(2004年5月期発売)	しない	http://www.hook-net.jp/likelife/
+らいくらいふひょうこばん	Like Life 氷庫版	名詞*	HOOK(2004年12月期発売) FD		
+あんだーばーさまー	_summer	名詞*	HOOK(2005年7月期発売)	しない	http://www.hook-net.jp/_summer/
+あんだば	_summer	名詞*	HOOK(2005年7月期発売)	しない	http://www.hook-net.jp/_summer/
+あんだーばーさまー	_summer -アンダーバーサマー-	名詞*	HOOK(2005年7月期発売)	しない	http://www.hook-net.jp/_summer/
+あんだば	_summer -アンダーバーサマー-	名詞*	HOOK(2005年7月期発売)	しない	http://www.hook-net.jp/_summer/
+はにーかみんぐ	HoneyComing -ハニーカミング-	名詞*	HOOK(2007年6月期発売)	しない	http://www.hook-net.jp/honeycoming/
+はにかみ	HoneyComing -ハニーカミング-	名詞*	HOOK(2007年6月期発売)	しない	http://www.hook-net.jp/honeycoming/
+はにーかみんぐ	HoneyComing	名詞*	HOOK(2007年6月期発売)	しない	http://www.hook-net.jp/honeycoming/
+はにかみ	HoneyComing	名詞*	HOOK(2007年6月期発売)	しない	http://www.hook-net.jp/honeycoming/
+ふぇありーらいふ	FairlyLife	名詞*	HOOK(2008年10月期発売)	しない	http://www.hook-net.jp/fairlylife/
+みくりまくり	みくりまくり	名詞*	HOOK(2009年1月期発売) FD	しない	http://www.hook-net.jp/htm/soft/mikuri.htm
+はにーかみんぐろいやるすいーと	@HoneyComing RoyalSweet	名詞*	HOOKSOFT(2009年9月期発売) FD	しない	http://www.hook-net.jp/hcrs/
+はにーかみんぐＦＤ	@HoneyComing RoyalSweet	名詞*	HOOKSOFT(2009年9月期発売) FD	しない	http://www.hook-net.jp/hcrs/
+はにかみＦＤ	@HoneyComing RoyalSweet	名詞*	HOOKSOFT(2009年9月期発売) FD	しない	http://www.hook-net.jp/hcrs/
+よりこりまくり	よりこりまくり	名詞*	HOOKSOFT(2009年12月期発売) FD	しない	http://www.hook-net.jp/htm/soft/yoriko.htm
+さくらびっとまっぷ	さくらビットマップ	名詞*	HOOKSOFT(2010年9月期発売)	しない	http://www.hook-net.jp/sakura/
+ｓａｋｕｒａｂｍｐ	さくらビットマップ	名詞*	HOOKSOFT(2010年9月期発売)	しない	http://www.hook-net.jp/sakura/
+ＳＡＫＵＲＡＢＭＰ	さくらビットマップ	名詞*	HOOKSOFT(2010年9月期発売)	しない	http://www.hook-net.jp/sakura/
+しゅがーりーうぃっしゅ	SuGirly Wish	名詞*	HOOKSOFT(2011年9月期発売)	しない	http://www.hook-net.jp/sugirlywish/
+しゅがーりぃうぃっしゅ	SuGirly Wish	名詞*	HOOKSOFT(2011年9月期発売)	しない	http://www.hook-net.jp/sugirlywish/
+すとろべりーのーつ	Strawberry Nauts	名詞*	HOOKSOFT(2011年11月期発売)	しない	http://www.hook-net.jp/strawberrynauts/
+すとの	Strawberry Nauts	名詞*	HOOKSOFT(2011年11月期発売)	しない	http://www.hook-net.jp/strawberrynauts/
+らぶりーくえすと	LOVELY QUEST	名詞*	HOOKSOFT(2012年9月期発売)	しない	http://www.hook-net.jp/lovelyquest/index_02.htm
+らぶくえ	LOVELY QUEST	名詞*	HOOKSOFT(2012年9月期発売)	しない	http://www.hook-net.jp/lovelyquest/index_02.htm
+ぷらいみにすたー	PriministAr	名詞*	HOOKSOFT(2013年8月期発売)	しない	http://www.hook-net.jp/priministar/
+ぷらみに	PriministAr	名詞*	HOOKSOFT(2013年8月期発売)	しない	http://www.hook-net.jp/priministar/
+ぷらいみにすたー	PriministAr -プライミニスター-	名詞*	HOOKSOFT(2013年8月期発売)	しない	http://www.hook-net.jp/priministar/
+ぷらみに	PriministAr -プライミニスター-	名詞*	HOOKSOFT(2013年8月期発売)	しない	http://www.hook-net.jp/priministar/
+
