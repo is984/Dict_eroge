@@ -49,4 +49,16 @@
 ぷらみに	PriministAr	名詞*	HOOKSOFT(2013年8月期発売)	しない	http://www.hook-net.jp/priministar/
 ぷらいみにすたー	PriministAr -プライミニスター-	名詞*	HOOKSOFT(2013年8月期発売)	しない	http://www.hook-net.jp/priministar/
 ぷらみに	PriministAr -プライミニスター-	名詞*	HOOKSOFT(2013年8月期発売)	しない	http://www.hook-net.jp/priministar/
+めるてぃもーめんと	MeltyMoment -メルティモーメント-	名詞*	HOOKSOFT(2014年1月期発売)	しない	http://www.hook-net.jp/MeltyMoment/
+めるてぃもーめんと	MeltyMoment 	名詞*	HOOKSOFT(2014年1月期発売)	しない	http://www.hook-net.jp/MeltyMoment/
+とらべりんぐすたーず	トラベリングスターズ	名詞*	HOOKSOFT(2015年8月期発売)	しない	http://www.hook-net.jp/travelingstars/
+あめにてぃーずらいふ	Amenity's Life	名詞*	HOOKSOFT(2016年12月期発売)	しない	http://www.hook-net.jp/amenityslife/
+あいしーてる	IxSHE Tell	名詞*	HOOKSOFT(2018年2月期発売)	しない	http://www.hook-net.jp/ixshetell/
+いーすくーるらいふ	Eスクールライフ	名詞*	HOOKSOFT(2019年5月期発売)	しない	http://www.hook-net.jp/eschoollife/
+ＥＳＣＨＯＯＬＬＩＦＥ	Eスクールライフ	名詞*	HOOKSOFT(2019年5月期発売)	しない	http://www.hook-net.jp/eschoollife/
+ｅｓｃｈｏｏｌｌｉｆｅ	Eスクールライフ	名詞*	HOOKSOFT(2019年5月期発売)	しない	http://www.hook-net.jp/eschoollife/
+どっちのあいがすきですか	どっちのiが好きですか？	名詞*	HOOKSOFT(2019年11月期発売)	しない	http://www.hook-net.jp/isuki/
+あいすき	どっちのiが好きですか？	名詞*	HOOKSOFT(2019年11月期発売)	しない	http://www.hook-net.jp/isuki/
+ほうかごしんでれら	放課後シンデレラ	名詞*	HOOKSOFT(2020年8月期発売予定)	しない	http://www.hook-net.jp/houkago/
+
 
