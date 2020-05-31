@@ -1,0 +1,40 @@
+!!ATOK_TANGO_TEXT_HEADER_1
+!!一覧出力
+!!対象辞書;F:\Win\Desk\エロゲ辞書\HOOK.dic
+!!単語種類;登録単語(*) 自動登録単語($)
+!!読み範囲;(読みの先頭) → (読みの最終)
+!!出力日時;20/05/29 01:36
+
+ゆずそふと	ゆずソフト	名詞*	ブランド[http://www.yuzu-soft.com/]	しない	http://www.yuzu-soft.com/
+ゆのす	株式会社ユノス	名詞*	ゆずソフト	しない	ゆずソフト
+ゆず	ゆずソフト	名詞*	ブランド[http://www.yuzu-soft.com/]	しない	http://www.yuzu-soft.com/
+ぶらばん	ぶらばん! -The bonds of melody-	名詞*	ゆずソフト(2006年7月期発売)	しない	http://legacy.yuzu-soft.com/buraban/
+えぐぜ	E×E	名詞*	ゆずソフト(2007年6月期発売)	しない	http://legacy.yuzu-soft.com/exe/
+ＥＸＥ	E×E	名詞*	ゆずソフト(2007年6月期発売)	しない	http://legacy.yuzu-soft.com/exe/
+なつぞらかなた	夏空カナタ	名詞*	ゆずソフト(2008年5月期発売)	しない	http://legacy.yuzu-soft.com/natsu/
+なつかな	夏空カナタ	名詞*	ゆずソフト(2008年5月期発売)	しない	http://legacy.yuzu-soft.com/natsu/
+てんしんらんまん	天神乱漫 -LUCKY or UNLUCKY!?-	名詞*	ゆずソフト(2009年5月期発売)	しない	http://legacy.yuzu-soft.com/tenshin/
+てんしんらんまんらっきーおああんらっきー	天神乱漫 -LUCKY or UNLUCKY!?-	名詞*	ゆずソフト(2009年5月期発売)	しない	http://legacy.yuzu-soft.com/tenshin/
+@あらぶるてんしんらんまん	＼（ ＾ヮ゜）＞	顔文字*	元ネタ:天神乱漫のOP		
+＠あらぶる	＼（ ＾ヮ゜）＞	顔文字*	元ネタ:天神乱漫のOP		
+＠あらぶるてんしんらんまんのぽーず	＼（ ＾ヮ゜）＞	顔文字*	元ネタ:天神乱漫のOP		
+＠てんしんらんまん	＼（ ＾ヮ゜）＞	顔文字*	元ネタ:天神乱漫のOP		
+のーぶるわーくす	のーぶる☆わーくす	名詞*	ゆずソフト(2010年12月期発売)	しない	http://legacy.yuzu-soft.com/nw/
+ぶるくす	のーぶる☆わーくす	名詞*	ゆずソフト(2010年12月期発売)	しない	http://legacy.yuzu-soft.com/nw/
+どらくりおっと	DRACU-RIOT!	名詞*	ゆずソフト(2012年3月期発売)	しない	http://www.yuzu-soft.com/ja/dracuriot.html
+どらくり	DRACU-RIOT!	名詞*	ゆずソフト(2012年3月期発売)	しない	http://www.yuzu-soft.com/ja/dracuriot.html
+あまいろあいるのーつ	天色＊アイルノーツ	名詞*	ゆずソフト(2013年7月期発売)	しない	http://www.yuzu-soft.com/ja/amairo.html
+あまいろ	天色＊アイルノーツ	名詞*	ゆずソフト(2013年7月期発売)	しない	http://www.yuzu-soft.com/ja/amairo.html
+あいるのーつ	天色＊アイルノーツ	名詞*	ゆずソフト(2013年7月期発売)	しない	http://www.yuzu-soft.com/ja/amairo.html
+さのばうぃっち	サノバウィッチ	名詞*	ゆずソフト(2015年2月期発売) 	しない	http://www.yuzu-soft.com/products/sothewitch/index.html
+さのばういっち	サノバウィッチ	名詞*	ゆずソフト(2015年2月期発売) 	しない	http://www.yuzu-soft.com/products/sothewitch/index.html
+さのば	サノバウィッチ	名詞*	ゆずソフト(2015年2月期発売) 	しない	http://www.yuzu-soft.com/products/sothewitch/index.html
+せんれんばんか	千恋*万花	名詞*	ゆずソフト(2016年7月期発売) 	しない	http://www.yuzu-soft.com/products/senren/index.html
+せんこい	千恋*万花	名詞*	ゆずソフト(2016年7月期発売) 	しない	http://www.yuzu-soft.com/products/senren/index.html
+せんれん	千恋*万花	名詞*	ゆずソフト(2016年7月期発売) 	しない	http://www.yuzu-soft.com/products/senren/index.html
+りどるじょーかー	RIDDLE JOKER	名詞*	ゆずソフト(2018年3月期発売)	しない	http://www.yuzu-soft.com/products/riddle/index.html
+ＲＩＤＤＬＥＪＯＫＥＲ	RIDDLE JOKER	名詞*	ゆずソフト(2018年3月期発売)	しない	http://www.yuzu-soft.com/products/riddle/index.html
+りどる	RIDDLE JOKER	名詞*	ゆずソフト(2018年3月期発売)	しない	http://www.yuzu-soft.com/products/riddle/index.html
+ＲＩＤＤＬＥ	RIDDLE JOKER	名詞*	ゆずソフト(2018年3月期発売)	しない	http://www.yuzu-soft.com/products/riddle/index.html
+かふぇすてらとしにがみのちょう	喫茶ステラと死神の蝶	名詞*	ゆずソフト(2019年8月期発売)	しない	http://www.yuzu-soft.com/products/stella/index.html
+すてら	喫茶ステラと死神の蝶	名詞*	ゆずソフト(2019年8月期発売)	しない	http://www.yuzu-soft.com/products/stella/index.html
