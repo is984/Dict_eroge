@@ -5,10 +5,10 @@
 !!読み範囲;(読みの先頭) → (読みの最終)
 !!出力日時;20/05/29 01:36
 
-ふっくそふと	HOOKSOFT	名詞*	ブランド[http://www.hook-net.jp]	しない	http://www.hook-net.jp
-ふっく	HOOKSOFT	名詞*	ブランド[http://www.hook-net.jp]	しない	http://www.hook-net.jp
-ＨＯＯＫ	HOOKSOFT	名詞*	ブランド[http://www.hook-net.jp]	しない	http://www.hook-net.jp
-ＨＯＯＫＳＯＦＴ	HOOKSOFT	名詞*	ブランド[http://www.hook-net.jp]	しない	http://www.hook-net.jp
+ふっくそふと	HOOKSOFT	名詞*	株式会社ロボプランニングのブランド	しない	http://www.hook-net.jp
+ふっく	HOOKSOFT	名詞*	株式会社ロボプランニングのブランド	しない	http://www.hook-net.jp
+ＨＯＯＫ	HOOKSOFT	名詞*	株式会社ロボプランニングのブランド	しない	http://www.hook-net.jp
+ＨＯＯＫＳＯＦＴ	HOOKSOFT	名詞*	株式会社ロボプランニングのブランド	しない	http://www.hook-net.jp
 あめあがりのねこたちへ	雨あがりの猫たちへ	名詞*	HOOK(2001年6月期発売)	しない	http://www.hook-net.jp/ameneko/ameneko_game.htm
 あめねこ	雨あがりの猫たちへ	名詞*	HOOK(2001年6月期発売)	しない	http://www.hook-net.jp/ameneko/ameneko_game.htm
 あまつむぐのりと	天紡ぐ祝詞	名詞*	HOOK(2002年6月期発売)	しない	http://www.hook-net.jp/norito/norito_main.htm
@@ -60,5 +60,6 @@
 どっちのあいがすきですか	どっちのiが好きですか？	名詞*	HOOKSOFT(2019年11月期発売)	しない	http://www.hook-net.jp/isuki/
 あいすき	どっちのiが好きですか？	名詞*	HOOKSOFT(2019年11月期発売)	しない	http://www.hook-net.jp/isuki/
 ほうかごしんでれら	放課後シンデレラ	名詞*	HOOKSOFT(2020年8月期発売予定)	しない	http://www.hook-net.jp/houkago/
+
 
 

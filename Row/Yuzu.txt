@@ -5,9 +5,9 @@
 !!読み範囲;(読みの先頭) → (読みの最終)
 !!出力日時;20/05/29 01:36
 
-ゆずそふと	ゆずソフト	名詞*	ブランド[http://www.yuzu-soft.com/]	しない	http://www.yuzu-soft.com/
+ゆずそふと	ゆずソフト	名詞*	株式会社ユノスのブランド	しない	http://www.yuzu-soft.com/
 ゆのす	株式会社ユノス	名詞*	ゆずソフト	しない	ゆずソフト
-ゆず	ゆずソフト	名詞*	ブランド[http://www.yuzu-soft.com/]	しない	http://www.yuzu-soft.com/
+ゆず	ゆずソフト	名詞*	株式会社ユノスのブランド	しない	http://www.yuzu-soft.com/
 ぶらばん	ぶらばん! -The bonds of melody-	名詞*	ゆずソフト(2006年7月期発売)	しない	http://legacy.yuzu-soft.com/buraban/
 えぐぜ	E×E	名詞*	ゆずソフト(2007年6月期発売)	しない	http://legacy.yuzu-soft.com/exe/
 ＥＸＥ	E×E	名詞*	ゆずソフト(2007年6月期発売)	しない	http://legacy.yuzu-soft.com/exe/
@@ -38,3 +38,4 @@
 ＲＩＤＤＬＥ	RIDDLE JOKER	名詞*	ゆずソフト(2018年3月期発売)	しない	http://www.yuzu-soft.com/products/riddle/index.html
 かふぇすてらとしにがみのちょう	喫茶ステラと死神の蝶	名詞*	ゆずソフト(2019年8月期発売)	しない	http://www.yuzu-soft.com/products/stella/index.html
 すてら	喫茶ステラと死神の蝶	名詞*	ゆずソフト(2019年8月期発売)	しない	http://www.yuzu-soft.com/products/stella/index.html
+
